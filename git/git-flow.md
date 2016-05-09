@@ -24,7 +24,7 @@ Available subcommands are:
 Try 'git flow <subcommand> help' for details.
 ```
 
-## git flow 는 master에서 초기한다.
+## git flow 는 master에서 초기화한다.
 ```
 jehyunpark@innoquartz-server(develop)$ git checkout master
 Branch master set up to track remote branch master from origin.
