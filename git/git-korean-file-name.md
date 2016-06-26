@@ -19,5 +19,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 아래의 명령어를 사용하면 한글 깨짐 문제 없이 한글 파일명을 사용할 수 있다.
 
 ```
-git config –global core.quotepath false
+git config --global core.quotepath false
 ```
