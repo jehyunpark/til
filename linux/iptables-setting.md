@@ -21,3 +21,8 @@ iptables -t nat -D PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 9042
 ```
 iptables -t nat -L
 ```
+
+# `ufw` 이용시
+```
+sudo ufw allow 9000
+```
